@@ -12,3 +12,4 @@ testrail_report/
 main.py
 test-results
 .venv
+venv/
